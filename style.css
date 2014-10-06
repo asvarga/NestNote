@@ -11,3 +11,15 @@ table.sortable thead {
     font-weight: bold;
     cursor: default;
 }
+
+.hidden {
+	display: none;
+}
+
+#templates {
+	float: left;
+}
+
+#nest {
+	float: right;
+}
